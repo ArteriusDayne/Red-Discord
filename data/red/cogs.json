@@ -1,0 +1,23 @@
+{
+    "cogs.admin" : true,
+    "cogs.alias" : true,
+    "cogs.animal" : true,
+    "cogs.animelist" : true,
+    "cogs.audio" : true,
+    "cogs.blizzard" : true,
+    "cogs.customcom" : true,
+    "cogs.downloader" : true,
+    "cogs.economy" : true,
+    "cogs.emotes" : true,
+    "cogs.general" : true,
+    "cogs.guildwars2" : true,
+    "cogs.image" : true,
+    "cogs.insult" : true,
+    "cogs.kaomoji" : true,
+    "cogs.mod" : true,
+    "cogs.pepe" : true,
+    "cogs.pokedex" : true,
+    "cogs.rndstatus" : true,
+    "cogs.streams" : true,
+    "cogs.trivia" : true
+}
