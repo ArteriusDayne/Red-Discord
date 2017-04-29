@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Redjumpman",
+    "SHORT" : "Can host lotteries for server users",
+    "DESCRIPTION" : "Enables an admin to host lotteries.\nPlayers will need to signup to be eligible to participate.\nIncludes lottery stats and a fun command for picking winners.",
+    "DISABLED" : false,
+    "NAME" : "Lottery",
+    "TAGS" : ["lottery", "giveaway", "economy"],
+    "INSTALL_MSG" : "Thank you for installing Lottery from Jumper Cogs.\nIf you like my cog please star my repo or post any issues on my github here:\nhttps://github.com/Redjumpman/Jumper-Cogs"
+}
